@@ -4,6 +4,7 @@
   "ControlUniqueIds": {
     "App": 1,
     "Button1": 12,
+    "DatePicker1": 15,
     "Gallery1": 5,
     "galleryTemplate1": 6,
     "Host": 3,
@@ -13,11 +14,13 @@
     "Screen1": 4,
     "Separator1": 11,
     "Subtitle1": 10,
-    "Title1": 8
+    "TextInput1": 14,
+    "Title1": 8,
+    "Triangle1": 16
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "05/18/2023 11:17:51",
+  "HeaderLastSavedDateTimeUTC": "05/18/2023 11:24:50",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
@@ -32,16 +35,20 @@
   "OrderPcfTemplate": {},
   "OrderTemplate": {},
   "OrderXMLTemplate": {
-    "button": 5,
-    "gallery": 1,
-    "icon": 3,
-    "image": 2,
+    "button": 8,
+    "datepicker": 2,
+    "gallery": 4,
+    "icon": 6,
+    "image": 5,
     "label": 0,
-    "rectangle": 4
+    "rectangle": 7,
+    "text": 1,
+    "triangle": 3
   },
   "OverridablePropertiesEntry": {
     "App": {},
     "Button1": {},
+    "DatePicker1": {},
     "Gallery1": {},
     "galleryTemplate1": {},
     "Host": {},
@@ -51,13 +58,16 @@
     "Screen1": {},
     "Separator1": {},
     "Subtitle1": {},
-    "Title1": {}
+    "TextInput1": {},
+    "Title1": {},
+    "Triangle1": {}
   },
   "PCFDynamicSchemaForIRRetrievalEntry": {},
   "PCFTemplateEntry": {},
   "PublishOrderIndices": {
     "App": 0,
     "Button1": 8,
+    "DatePicker1": 0,
     "Gallery1": 1,
     "galleryTemplate1": 2,
     "Host": 0,
@@ -67,7 +77,9 @@
     "Screen1": 0,
     "Separator1": 7,
     "Subtitle1": 6,
-    "Title1": 4
+    "TextInput1": 0,
+    "Title1": 4,
+    "Triangle1": 0
   },
   "ResourcesJsonIndices": {
     "Image-SampleImage": 0

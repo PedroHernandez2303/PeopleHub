@@ -84,3 +84,19 @@ Screen1 As screen:
         Y: =136
         ZIndex: =3
 
+    TextInput1 As text:
+        Default: ="Entrada de texto"
+        X: =76
+        Y: =364
+        ZIndex: =4
+
+    DatePicker1 As datepicker:
+        X: =76
+        Y: =467
+        ZIndex: =5
+
+    Triangle1 As triangle:
+        X: =138
+        Y: =583
+        ZIndex: =6
+
