@@ -3,24 +3,24 @@
   "ControlUniqueGuids": {},
   "ControlUniqueIds": {
     "App": 1,
-    "Button1": 12,
-    "DatePicker1": 15,
-    "Gallery1": 5,
-    "galleryTemplate1": 6,
+    "Button1": 16,
+    "DatePicker1": 7,
+    "Gallery1": 9,
+    "galleryTemplate1": 10,
     "Host": 3,
-    "Image1": 7,
-    "Label1": 13,
-    "NextArrow1": 9,
+    "Image1": 11,
+    "Label1": 5,
+    "NextArrow1": 13,
     "Screen1": 4,
-    "Separator1": 11,
-    "Subtitle1": 10,
-    "TextInput1": 14,
-    "Title1": 8,
-    "Triangle1": 16
+    "Separator1": 15,
+    "Subtitle1": 14,
+    "TextInput1": 6,
+    "Title1": 12,
+    "Triangle1": 8
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "05/18/2023 11:24:59",
+  "HeaderLastSavedDateTimeUTC": "05/18/2023 11:37:30",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
@@ -87,17 +87,21 @@
   "RuleScreenIdWithoutScreen": {},
   "TemplateVersions": {},
   "VolatileProperties": {
-    "AnalysisLoadTime": 0.0889526,
+    "AnalysisLoadTime": 0.1078289,
     "ControlCount": {
+      "button": 1,
+      "datepicker": 1,
       "gallery": 1,
       "galleryTemplate": 1,
       "icon": 1,
       "image": 1,
-      "label": 2,
+      "label": 3,
       "rectangle": 1,
-      "screen": 1
+      "screen": 1,
+      "text": 1,
+      "triangle": 1
     },
-    "DeserializationLoadTime": 0.343937
+    "DeserializationLoadTime": 2.3408495
   },
   "WasLocalDatabaseReferencesEmpty": true
 }
