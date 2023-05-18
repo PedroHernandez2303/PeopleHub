@@ -16,11 +16,12 @@
     "Subtitle1": 14,
     "TextInput1": 6,
     "Title1": 12,
-    "Triangle1": 8
+    "Triangle1": 8,
+    "Triangle1_1": 17
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "05/18/2023 12:04:23",
+  "HeaderLastSavedDateTimeUTC": "05/18/2023 12:07:09",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
@@ -60,7 +61,8 @@
     "Subtitle1": {},
     "TextInput1": {},
     "Title1": {},
-    "Triangle1": {}
+    "Triangle1": {},
+    "Triangle1_1": {}
   },
   "PCFDynamicSchemaForIRRetrievalEntry": {},
   "PCFTemplateEntry": {},
@@ -79,7 +81,8 @@
     "Subtitle1": 14,
     "TextInput1": 5,
     "Title1": 12,
-    "Triangle1": 7
+    "Triangle1": 7,
+    "Triangle1_1": 7
   },
   "ResourcesJsonIndices": {
     "Image-SampleImage": 0
@@ -87,7 +90,7 @@
   "RuleScreenIdWithoutScreen": {},
   "TemplateVersions": {},
   "VolatileProperties": {
-    "AnalysisLoadTime": 0.1212755,
+    "AnalysisLoadTime": 0.1175016,
     "ControlCount": {
       "button": 1,
       "datepicker": 1,
@@ -99,9 +102,9 @@
       "rectangle": 1,
       "screen": 1,
       "text": 1,
-      "triangle": 1
+      "triangle": 2
     },
-    "DeserializationLoadTime": 0.49654
+    "DeserializationLoadTime": 0.5150599
   },
   "WasLocalDatabaseReferencesEmpty": true
 }

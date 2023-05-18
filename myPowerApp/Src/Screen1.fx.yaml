@@ -102,3 +102,8 @@ Screen1 As screen:
         Y: =583
         ZIndex: =6
 
+    Triangle1_1 As triangle:
+        X: =158
+        Y: =603
+        ZIndex: =7
+
