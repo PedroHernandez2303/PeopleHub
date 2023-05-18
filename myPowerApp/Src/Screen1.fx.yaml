@@ -73,9 +73,11 @@ Screen1 As screen:
             ZIndex: =5
 
     Button1 As button:
+        Height: =41
         Text: ="loremipsumdolor"
-        X: =108
-        Y: =188
+        Width: =288
+        X: =76
+        Y: =229
         ZIndex: =2
 
     Label1 As label:
